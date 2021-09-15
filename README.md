@@ -1,2 +1,1 @@
-# FORTAP
-Using Spreadsheet Formulae for Numerical-Reasoning-Aware Table Pretraining
+# FORTAP: Using Formulae for Numerical-Reasoning-Aware Table Pretraining
